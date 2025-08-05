@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1600" alt="Game Banner">
-</p>
-
-<p align="center">
 <pre>
  ____  ____  __    __
 (  _ \(  _ \(  )  (  )
